@@ -30,3 +30,4 @@ Always eager to learn and collaborate on new challenges!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRG96&layout=compact&theme=dark)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoRG96&show_icons=true&theme=dark)
